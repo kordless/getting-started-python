@@ -20,4 +20,6 @@ deploy:
         username: kord
         password: bazf00
         tag: latest
+        repository: registry.giantswarm.io/kord/getting-started-python
         registry: https://registry.giantswarm.io
+
