@@ -17,8 +17,7 @@ build:
 deploy:
   steps:
     - internal/docker-push:
-        username: $USERNAME
-        password: $PASSWORD
+        username: kord
+        password: bazf00
         tag: latest
-        repository: kord/getting-started-python
         registry: https://registry.giantswarm.io
