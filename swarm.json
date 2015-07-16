@@ -1,1 +1,18 @@
-swarm.json
+{
+  "app_name": "getting-started-python",
+  "services": [
+    {
+      "service_name": "getting-started-service",
+      "components": [
+        {
+          "component_name": "flask",
+          "image": "registry.giantswarm.io/$username/getting-started-python",
+          "ports": [5000],
+          "domains": {
+            "werckertest.gigantic.io": 5000
+          }
+        }
+      ]
+    }
+  ]
+}
