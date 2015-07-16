@@ -4,9 +4,10 @@ This is a sample containerized Python Flask application which is built and teste
 ### Wercker Status
 [![wercker status](https://app.wercker.com/status/262b7cee5c4f2668a4c8c0c9724075c8/m "wercker status")](https://app.wercker.com/project/bykey/262b7cee5c4f2668a4c8c0c9724075c8)
 
-Note: this sample application only runs on the Ewok stack (version 5) on wercker
 
----
-Sing up for [Giant Swarm](https://giantswarm.io)
-Sign up for [wercker](https://wercker.com)
-Learn more at [wercker's dev center](http://devcenter.wercker.com) and [Giant Swarm's docs site](https://docs.giantswarm.io/).  
+*Note: this sample application only runs on the Ewok stack (version 5) on wercker.*
+
+* Sign up for [Giant Swarm](https://giantswarm.io)
+* Sign up for [wercker](https://wercker.com)
+* [wercker's dev center](http://devcenter.wercker.com)
+* [Giant Swarm's docs site](https://docs.giantswarm.io/).  
